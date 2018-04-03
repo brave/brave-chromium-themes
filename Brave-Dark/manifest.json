@@ -1,0 +1,55 @@
+{
+ "version":"1.0",
+ "manifest_version":2,
+ "name":"Brave Dark",
+ "short_name":"BraveDark",
+ "description":"Brave dark theme for chromium based browsers.",
+ "homepage_url": "https://brave.com",
+ "author": "Brave Software Inc.",
+ "minimum_chrome_version": "18",
+ "icons": {
+   "16": "images/icon16.png",
+ 	 "32": "images/icon32.png",
+   "48": "images/icon48.png",
+   "128": "images/icon128.png"
+ },
+ "theme":{
+      "images":{
+      	"theme_ntp_background":"images/theme_ntp_background.png",
+
+      	"theme_toolbar":"images/theme_toolbar.png",
+      	"theme_tab_background":"images/theme_tab_background.png"
+    	},
+      "colors":{
+      	"frame":[34,35,38], //#222326
+        "frame_inactive":[34,35,38], //#222326
+        "frame_incognito":[129,133,137], //#818589
+        "frame_incognito_inactive":[129,133,137], //#818589
+
+        "toolbar":[34,35,38], //#222326
+        "buttons":[153,158,162], //#999EA2
+
+        "tab_text":[247,248,249], //#F7F8F9
+      	"tab_background_text":[129,133,137], //#818589
+
+      	"bookmark_text":[129,133,137], //#818589
+
+        "ntp_background":[34,35,38], //#222326
+      	"ntp_text":[231,235,238], //#E7EBEE
+      	"ntp_link":[247,248,249], //#F7F8F9
+        "ntp_header":[72,75,78], //#484B4E
+        "ntp_section":[72,75,78], //#484B4E
+        "ntp_section_text":[247,248,249], //#F7F8F9
+        "ntp_section_link":[247,248,249], //#F7F8F9
+      	"ntp_link_underline":[247,248,249], //#F7F8F9
+
+        "control_background":[34,35,38], //#222326
+        "control_buttons":[72,75,78] //#484B4E
+    	},
+      "properties":{
+      	"ntp_background_repeat":"no-repeat",
+      	"ntp_background_alignment":"center",
+      	"ntp_logo_alternate": 0
+    	 }
+     }
+  }
