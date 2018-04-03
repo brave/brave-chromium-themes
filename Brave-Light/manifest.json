@@ -34,7 +34,7 @@
 
       	"bookmark_text":[72,75,78], //#484B4E
 
-        "ntp_background":[205,209,213], //#CDD1D5
+        "ntp_background":[255,255,255], //#FFFFFF
       	"ntp_text":[34,35,38], //#222326
       	"ntp_link":[96,100,103], //#606467
         "ntp_header":[167,172,178], //#A7ACB2
