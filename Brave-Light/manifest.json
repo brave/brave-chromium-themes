@@ -15,6 +15,7 @@
  },
  "theme":{
       "images":{
+        "theme_frame":"images/theme_frame.png",
       	"theme_ntp_background":"images/theme_ntp_background.png",
 
       	"theme_toolbar":"images/theme_toolbar.png",
