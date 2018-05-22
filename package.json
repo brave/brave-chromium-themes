@@ -1,0 +1,14 @@
+{
+  "name": "brave-chromium-themes",
+  "version": "1.0.0",
+  "description": "Brave browser themes",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/brave/brave-chromium-themes.git"
+  },
+  "license": "MPL-2.0",
+  "bugs": {
+    "url": "https://github.com/brave/brave-chromium-themes/issues"
+  },
+  "homepage": "https://github.com/brave/brave-chromium-themes#readme"
+}
