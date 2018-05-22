@@ -6,6 +6,7 @@
  "description":"Brave light theme for chromium based browsers.",
  "homepage_url": "https://brave.com",
  "author": "Brave Software Inc.",
+ "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAmG+2NM9JT+xdtMuT8o9fI8f626Y6fUBznjOafk3aeuerkXxYxY5AzAnX9bU1mfSrkrIloR56Hnr4IGqsq/SMicwedQAm6xL376AQ+n5OQ1N8275s93scrMjayM65IaQw/UUufFZFUDvoP/4DWtviVXO3Xna+MA0GvjVqjGlHu4Wk0RCw4/HzFveeKGuS9KDu1O5mbTSQhiXPqFPFnrv2GmNsQ1eYbQgDGxVEvNppB7Mw/0wh0lDEiEM72wt+QYyi011LgkxU38QTRs5es3QFGFzEFSRy0M4ffrdjeTY89A4499hONG4ARuOWSb8kMRQTXZPHEbFZhFgExpY1UJaxGQIDAQAB",
  "minimum_chrome_version": "18",
  "icons": {
    "16": "images/icon16.png",
