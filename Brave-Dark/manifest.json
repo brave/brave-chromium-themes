@@ -6,6 +6,7 @@
  "description":"Brave dark theme for chromium based browsers.",
  "homepage_url": "https://brave.com",
  "author": "Brave Software Inc.",
+ "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAp9GiXANm7DYRlWWNvd2vwMEtBqxj3+vPnnuyBZV3wm882F4iPx++rhemUgPz0UoUeouHKI1B8ZRMfqJWcLSWJZtAPEwKp6JmyWDJhsUiwB6Zi+27sHkQNXi1Z5O+gcC48pYBTDjS854cJeft8yXt/SETfepsOg2QUBdMCIPhjiBExBMFvoRxIgdsloRy0V/yT8RQVuUPR/ir7rW5BSqCL/oPs7vQ1wHKlLlvZvDDpSEKVgll2eWbdPFqHCZUIO2UY+Xd0JfSZAlrxn1lHu0XSJ9IZKO9NRFmaiNffZPhdYoPUfG0bXzBt9TpuqUuk120Ibn/XSH9ThkAkzoB4sDk0wIDAQAB",
  "minimum_chrome_version": "18",
  "icons": {
    "16": "images/icon16.png",
